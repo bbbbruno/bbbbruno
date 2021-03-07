@@ -8,7 +8,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bbbbruno&theme=onedark)
 ![Bruno Sugahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbbruno&theme=react&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbruno&theme=dark&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbruno&theme=react&layout=compact&langs_count=8)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bbbbruno&theme=black-ice)
 
 ## Languages and Tools:
