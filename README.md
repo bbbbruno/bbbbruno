@@ -7,7 +7,6 @@
 ## GitHub Stats
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bbbbruno&theme=onedark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bbbbruno&theme=black-ice)
 ![Bruno Sugahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbbruno&&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbruno&t&layout=compact&langs_count=8)
 
