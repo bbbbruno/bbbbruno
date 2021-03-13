@@ -3,6 +3,7 @@
 - 🏂 I’m currently working on [Pinnacles, Inc.](https://pinnacles.tech/)
 - 🛠 And developing a [tebiki](https://tebiki.jp)
 - 🌱 I’m currently learning **AWS, React.js, Golang, Flutter**
+- 
 
 ## GitHub Stats
 
