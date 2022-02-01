@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bruno Sugahara
 
-- 🏂 I’m currently working on [Pinnacles, Inc.](https://pinnacles.tech/)
+- 🏂 I’m currently working on [Tebiki, Inc.](https://tebiki.co.jp)
 - 🛠 And developing a [tebiki](https://tebiki.jp)
 - 🌱 I’m currently learning **AWS, React.js, Golang, Flutter**
 
